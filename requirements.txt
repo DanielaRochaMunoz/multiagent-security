@@ -1,0 +1,14 @@
+flask
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+socket
+json
+threading
+logging
+time
+owlready2
+
+# pip install -r requirements.txt
